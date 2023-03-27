@@ -1,0 +1,16 @@
+.container {
+    margin-top: 50px;
+}
+
+th {
+    text-align: center;
+}
+
+td {
+    vertical-align: middle;
+    text-align: center;
+}
+h6{
+    text-align: center;
+    color: red;
+}
